@@ -3,7 +3,7 @@
 #include <clocale>
 using namespace std;
 int main()
-{
+{//superprog
 	int i; //счетчик цикла
 	int sum = 0; //обнуляем переменную
 	//задаем начальное значение 1, конечное 1000 и задаем шаг цикла 1
