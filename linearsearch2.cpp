@@ -1,7 +1,7 @@
 // min_max.cpp: определяет точку входа для консольного приложения.
 // поиск минимального значения в одномерном масиве
  
-
+//library of input-output
 #include <iostream>
 #include <ctime>
 using namespace std;
