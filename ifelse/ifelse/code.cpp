@@ -19,4 +19,5 @@ int main()
 	case '*': res = a*b; cout << "res = " << res << endl; break;
 	default : cout << "Unknown oparator" << endl;
 	}
+	return 0;
 }
