@@ -2,7 +2,7 @@
 #include <cstdio>
 using namespace std;
 int main()
-{//
+{
 	int a,b,res;
 	char op;
 	cout << "type a->" << endl;
