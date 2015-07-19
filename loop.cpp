@@ -13,5 +13,5 @@ int main()
 	}
 	setlocale(LC_ALL, "russian");
 	cout << "—умма чисел от 1 до 1000: " << sum;
-	return 0;
+	return 0; //
 }
